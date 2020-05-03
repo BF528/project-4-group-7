@@ -1,0 +1,1 @@
+zgrep "umi" SRR3879606_1_bc.fastq.gz | awk '{print $2,$3}' | sed 's/bc1=//' | sed 's/ //' | sed 's/bc2=//'\ | awk '{A[$1]++}END{for(i in A)print i,A[i]}' > SRR3879606_1.countbc.txt
