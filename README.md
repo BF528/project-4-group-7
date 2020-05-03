@@ -4,9 +4,9 @@ A brief description of what this repository is for and what it contains
 
 # Contributors
 
-Nitsueh Kebere - Data curator
-Xinyu Sun - Programmer
-Will Mischler - Analyst
+Nitsueh Kebere - Data curator;
+Xinyu Sun - Programmer;
+Will Mischler - Analyst;
 Reva Shenwai - Biologist
 
 # Repository Contents
