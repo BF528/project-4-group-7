@@ -1,7 +1,8 @@
 # Project Description
 
 This project is a replication of a Single Cell RNA-seq Anlaysis done on pancreatic cells from human and mice samples by Baron et. al (2016)
-Note: The study this project is referencing used sc-RNA-seq data from 4 human donors and 2 mice strains for single cell anlysis. However, for this project we only used the sc-RNA-seq data associated with a 51-year-old female donor.
+
+N.B.: The study this project is referencing used sc-RNA-seq data from 4 human donors and 2 mice strains for single cell anlysis. However, for this project we only used the sc-RNA-seq data associated with a 51-year-old female donor.
 
 Reference:
 Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., Ryu, J. H., Wagner, B. K., Shen-Orr, S. S., Klein, A. M., Melton, D. A., & Yanai, I. (2016). A Single-Cell Transcriptomic Map of the Human and Mouse Pancreas Reveals Inter- and Intra-cell Population Structure. Cell systems, 3(4):346–360.e4. https://doi.org/10.1016/j.cels.2016.08.011
