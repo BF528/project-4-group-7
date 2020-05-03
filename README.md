@@ -9,8 +9,10 @@ Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., Ryu,
 # Contributors
 
 Nitsueh Kebere - Data curator nkebere@bu.edu
-Xinyu Sun - Programmer
-Will Mischler - Analyst
+
+Xinyu Sun - Programmer xinyusun@bu.edu
+
+Will Mischler - Analyst mischler@bu.edu
 Reva Shenwai - Biologist
 
 
