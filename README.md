@@ -14,7 +14,7 @@ Xinyu Sun - Programmer xinyusun@bu.edu
 
 Will Mischler - Analyst mischler@bu.edu
 
-Reva Shenwai - Biologist
+Reva Shenwai - Biologist reva96@bu.edu
 
 
 # Repository Contents
