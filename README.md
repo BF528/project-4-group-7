@@ -15,4 +15,4 @@ Reva Shenwai - Biologist                  reva96@bu.edu
 
 # Repository Contents
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
+The repository contains all the scripts and packages used to analyse the single cell RNA-seq data.
