@@ -4,10 +4,10 @@ A brief description of what this repository is for and what it contains
 
 # Contributors
 
-Nitsueh Kebere - Data curator
-Xinyu Sun - Programmer
-Will Mischler - Analyst
-Reva Shenwai - Biologist
+Nitsueh Kebere - Data curator \n
+Xinyu Sun - Programmer \n 
+Will Mischler - Analyst \n
+Reva Shenwai - Biologist \n
 
 
 # Repository Contents
